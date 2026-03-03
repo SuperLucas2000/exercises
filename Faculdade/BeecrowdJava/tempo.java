@@ -1,4 +1,5 @@
 /* Leia um valor inteiro, que é o tempo de duração em segundos de um determinado evento em uma fábrica, e informe-o expresso no formato horas:minutos:segundos.
+EXERCÍCIO 1019 
 
 Entrada
 O arquivo de entrada contém um valor inteiro N.
